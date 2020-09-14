@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\BuricMarioZadatak3\BuricMarioZadatak3\obj\Debug\BuricMarioZadatak3.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\BuricMarioZadatak3\BuricMarioZadatak3\obj\Debug\BuricMarioZadatak3.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\BuricMarioZadatak3\BuricMarioZadatak3\bin\Debug\BuricMarioZadatak3.exe.config
+C:\Users\Korisnik\source\repos\BuricMarioZadatak3\BuricMarioZadatak3\bin\Debug\BuricMarioZadatak3.exe
+C:\Users\Korisnik\source\repos\BuricMarioZadatak3\BuricMarioZadatak3\bin\Debug\BuricMarioZadatak3.pdb
+C:\Users\Korisnik\source\repos\BuricMarioZadatak3\BuricMarioZadatak3\obj\Debug\BuricMarioZadatak3.exe
+C:\Users\Korisnik\source\repos\BuricMarioZadatak3\BuricMarioZadatak3\obj\Debug\BuricMarioZadatak3.pdb
